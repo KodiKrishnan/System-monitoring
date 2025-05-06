@@ -8,7 +8,7 @@ A lightweight Flask-based system monitor with a web UI to display real-time **CP
 
 ## 📸 Dashboard Preview
 
-![UI Preview](https://your-screenshot-url-if-any.com)
+![UI Preview](Screenshot)
 
 ---
 
