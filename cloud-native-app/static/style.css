@@ -1,0 +1,13 @@
+.metric {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+}
+
+.display {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 10px;
+}

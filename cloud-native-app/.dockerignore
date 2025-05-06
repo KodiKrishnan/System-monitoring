@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+
+# Git
+.git/
+.gitignore
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# Docker metadata (optional to ignore)
+Dockerfile
+.dockerignore
